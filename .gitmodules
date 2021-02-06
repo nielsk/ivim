@@ -67,3 +67,6 @@
 [submodule "vim-rooter"]
 	path = vim-rooter
 	url = https://github.com/airblade/vim-rooter
+[submodule "vimwiki"]
+	path = vimwiki
+	url = https://github.com/vimwiki/vimwiki.git
