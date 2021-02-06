@@ -157,5 +157,10 @@ nnoremap <c-1> :call SynGroup()<cr>
 " I'm so used to doing this...
 nmap <c-s> :w<cr>
 
+" vimwiki und markdown
+let g:vimwiki_list = [{'path': '~/vimwiki/',
+                      \ 'syntax': 'markdown', 'ext': '.md'}]
+
+
 
 " vim: fdm=marker
