@@ -35,7 +35,7 @@ set synmaxcol=5000
 " set secure
 
 " Recommended for vim-stay
-“ set sessionoptions-=cursor,folds,slash,unix
+" set sessionoptions-=cursor,folds,slash,unix
 
 " No swap files, but undo files
 set noswapfile
