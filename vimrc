@@ -50,8 +50,8 @@ set undofile
 " colorscheme abstract
 " colorscheme afterglow
 set background=dark
-colorscheme scheakur
-ifont iosevka-fixed-ss04-extended 18
+colorscheme ayu
+ifont iosevka-fixed-ss04-extended 12
 
 let mapleader=","
 let maplocalleader=","
